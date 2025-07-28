@@ -1,0 +1,9 @@
+mcp[cli]
+azure-ai-projects
+azure-ai-agents==1.1.0b4
+azure-identity
+fastapi
+fastmcp[http]
+uvicorn
+python-dotenv
+
